@@ -4,6 +4,7 @@
 <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "right">
 I'm a computer science engineer who is passionate about making open-source more accessible.I love programming and am currently looking for opportunities. Feel Free to contact me
 </p>
+
 ## Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

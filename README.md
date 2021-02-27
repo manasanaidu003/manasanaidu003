@@ -2,7 +2,7 @@
 
 <p>
 <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "right">
-I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with includes C, HTML, Python.
+I'm a computer science engineer who is passionate about making open-source more accessible.I love programming and am currently looking for opportunities. Feel Free to contact me
 </p>
 ## Languages and Tools:  
 

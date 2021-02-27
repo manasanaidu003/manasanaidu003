@@ -4,5 +4,3 @@ I'm a computer science engineer who is passionate about making open-source more 
 
 ## Find me around the web 🌎:
 - Contact me on <a href="https://www.linkedin.com/in/naveenjujaray/">LinkedIn</a> 💼
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasanaidu003&layout=compact)
